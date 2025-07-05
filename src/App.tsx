@@ -10,6 +10,9 @@ function App() {
         <p>
             Krubbarkivet!!!
         </p>
+        <p>
+            Krubbarkivet 2
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

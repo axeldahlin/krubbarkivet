@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/krubbarkivet/static/css/main.f855e6bc.css",
+    "main.js": "/krubbarkivet/static/js/main.2e3ee21b.js",
+    "static/js/453.c762fe13.chunk.js": "/krubbarkivet/static/js/453.c762fe13.chunk.js",
+    "static/media/logo.svg": "/krubbarkivet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/krubbarkivet/index.html",
+    "main.f855e6bc.css.map": "/krubbarkivet/static/css/main.f855e6bc.css.map",
+    "main.2e3ee21b.js.map": "/krubbarkivet/static/js/main.2e3ee21b.js.map",
+    "453.c762fe13.chunk.js.map": "/krubbarkivet/static/js/453.c762fe13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2e3ee21b.js"
+  ]
+}

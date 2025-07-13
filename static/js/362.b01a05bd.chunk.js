@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkrubbarkivet=self.webpackChunkkrubbarkivet||[]).push([[362],{362:(e,k,a)=>{e.exports=a.p+"static/media/pannkakor2.41c5b71ed5d1c3806539.md"}}]);
